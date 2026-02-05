@@ -1,5 +1,4 @@
 ## Hi there 👋 I am Mayur Pingale
-<h1 align="center">Mayur Pingale</h1>
 <h3 align="center">
 AWS / DevOps Engineer | Terraform | CI/CD | Cloud Security
 </h3>
@@ -8,7 +7,7 @@ AWS / DevOps Engineer | Terraform | CI/CD | Cloud Security
 Designing secure, scalable, and automated cloud infrastructure on AWS
 </p>
 
----a
+---
 
 ### 👨‍💻 About Me
 
