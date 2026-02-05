@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋 I am Mayur Pingale
+<h1 align="center">Mayur Pingale</h1>
+<h3 align="center">
+AWS / DevOps Engineer | Terraform | CI/CD | Cloud Security
+</h3>
 
-<!--
-**mayurpingale11/mayurpingale11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Designing secure, scalable, and automated cloud infrastructure on AWS
+</p>
 
-Here are some ideas to get you started:
+---a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- AWS & DevOps Engineer with strong hands-on experience in **cloud infrastructure automation**
+- Expertise in **Terraform**, **CI/CD pipelines**, and **cloud security best practices**
+- Passionate about building **reliable, scalable, and cost-optimized systems**
+- Strong focus on **Infrastructure as Code (IaC)** and **DevSecOps**
+
+---
+
+### 🛠 Core Skills & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" />
+</p>
+
+---
+
+### 🔐 Cloud & DevOps Expertise
+
+- **AWS Services:** EC2, S3, IAM, VPC, RDS, CloudWatch, ALB, Auto Scaling
+- **Infrastructure as Code:** Terraform (modules, remote state, best practices)
+- **CI/CD:** Jenkins, GitHub Actions (build, test, deploy automation)
+- **Containers:** Docker, Kubernetes (EKS basics)
+- **Security:** IAM policies, least privilege, secrets management, secure pipelines
+- **Monitoring & Logging:** CloudWatch, logs & metrics optimization
+
+---
+
