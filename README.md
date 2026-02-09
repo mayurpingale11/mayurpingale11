@@ -43,6 +43,16 @@ Designing secure, scalable, and automated cloud infrastructure on AWS
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
+<p>
+  <strong>Compute:</strong> EC2 · Auto Scaling · Elastic Load Balancing · Lambda<br/>
+  <strong>Containers:</strong> EKS · ECS · ECR<br/>
+  <strong>Storage:</strong> S3 · EBS · EFS<br/>
+  <strong>Databases:</strong> RDS · DynamoDB<br/>
+  <strong>Networking:</strong> VPC · Route 53 · CloudFront<br/>
+  <strong>Security & IAM:</strong> IAM · KMS · Secrets Manager<br/>
+  <strong>Monitoring & Logging:</strong> CloudWatch · CloudTrail<br/>
+  <strong>DevOps & IaC:</strong> Terraform · CloudFormation
+</p>
 
 ---
 
