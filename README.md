@@ -21,38 +21,17 @@ Designing secure, scalable, and automated cloud infrastructure on AWS
 ### 🛠 Core Skills & Tools
 
 <p align="left">
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/awslambda.svg" height="40" alt="AWS Lambda" />
-
-  <!-- Infrastructure as Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" height="40" alt="Terraform" />
-
-  <!-- CI / CD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
-
-  <!-- Containers & Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-
-  <!-- OS & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-
-  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
-<p>
-  <strong>Compute:</strong> EC2 · Auto Scaling · Elastic Load Balancing · Lambda<br/>
-  <strong>Containers:</strong> EKS · ECS · ECR<br/>
-  <strong>Storage:</strong> S3 · EBS · EFS<br/>
-  <strong>Databases:</strong> RDS · DynamoDB<br/>
-  <strong>Networking:</strong> VPC · Route 53 · CloudFront<br/>
-  <strong>Security & IAM:</strong> IAM · KMS · Secrets Manager<br/>
-  <strong>Monitoring & Logging:</strong> CloudWatch · CloudTrail<br/>
-  <strong>DevOps & IaC:</strong> Terraform · CloudFormation
-</p>
+
 
 ---
 
