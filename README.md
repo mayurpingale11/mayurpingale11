@@ -42,8 +42,3 @@ Designing secure, scalable, and automated cloud infrastructure on AWS
 
 ---
 
-### 🚀 Professional Summary
-
-Design, build, and operate **scalable cloud infrastructure** on AWS using **Infrastructure as Code** and **CI/CD automation**.  
-Specialized in **DevSecOps, containerized workloads, and serverless architectures**, ensuring **secure, reliable, and cost-optimized solutions** for production environments.
----
